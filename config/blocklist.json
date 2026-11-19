@@ -1,0 +1,5 @@
+{
+  "description": "Server-side blocklist to suppress manga titles or scanlation groups on takedown/DMCA request.",
+  "blockedMangaIds": [],
+  "blockedGroupIds": []
+}
